@@ -23,7 +23,7 @@
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kachhaplily&show_icons=true&locale=en&layout=compact" alt="kachhaplily" />
 
 <p>&nbsp;<img align="center" src="https://media.tenor.com/Q4qyZizrNGMAAAAi/thor-love-and-thunder-marvel-studios.gif" alt="kachhaplily" width="100px" />
-  <img align="center" src="https://media.tenor.com/UiLQ_TyR6MMAAAAi/iron-man.gif" alt="kachhaplily" width="100px" />
+ 
 
 </p>
 
