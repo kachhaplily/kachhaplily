@@ -1,4 +1,8 @@
-<h1 align="center">Hi 😎, I'm kachhap Lily</h1>
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey,+Guys!;This+is+Lily.;Nice+to+meet+you!;Have+a+great+day&center=true&size=30">
+  </a>
+</h1>
 <h3 align="center">A passionate frontend developer </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kachhaplily&label=Profile%20views&color=0e75b6&style=flat" alt="kachhaplily" /> </p>
