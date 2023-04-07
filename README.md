@@ -6,9 +6,9 @@
 <h3 align="center">A passionate frontend developer </h3>
 
 
-- 🌱 I’m currently learning **Javascript**
+- 🌱 I’m currently learning **Angular**
 
-- 💬 Ask me about **HTML,CSS,JavaScript**
+- 💬 Ask me about **HTML,CSS,JavaScript,React,Redux,TypeScript,Angular**
 
 - 📫 How to reach me **kachhaplily@gmail.com**
 
